@@ -1,4 +1,4 @@
-# Channel-Aware Adaptive Reed–Solomon Error Control for a CSK-Based VLC System
+# Channel-Aware Adaptive Reed–Solomon Error Control for a CSK-Based VLC System.
 
 [![Python Tests](https://img.shields.io/badge/pytest-17%20passed-brightgreen.svg)]()
 [![Standard](https://img.shields.io/badge/IEEE-802.15.7%204--CSK-blue.svg)]()
