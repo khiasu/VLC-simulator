@@ -1,0 +1,43 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Virtual environments
+venv/
+.env/
+
+# IDE
+.vscode/
+.idea/
+
+# Pytest
+.pytest_cache/
+
+# OS junk
+Thumbs.db
+.DS_Store
+desktop.ini
+~$*
+
+# Temporary report inspection scripts
+analyze_likhibi.py
+inspect_*.py
+test_sections.py
+inspect_t2.py
+inspect_t8.py
+test_out.docx
+test_frontmatter.docx
+
+# Reference template (not our work)
+LIKHIBI REPORT MINI PROJECT (1).docx
+
+# Agent workspace metadata
+.agents/
+AI_SYSTEM_PROMPT.md
+context.md
