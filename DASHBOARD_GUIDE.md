@@ -1,3 +1,4 @@
+
 # VLC Simulator — Interactive Research Dashboard Guide
 
 > **Launch Command:** `streamlit run dashboard.py`
